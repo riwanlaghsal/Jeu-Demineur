@@ -1,2 +1,2 @@
-# Jeu-D-mineur
+# Jeu-Demineur
 miner game in processing
